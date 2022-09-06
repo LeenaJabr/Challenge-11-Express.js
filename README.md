@@ -9,6 +9,11 @@ The application frontend has already been created, it's your job to build the ba
 ## Demo
 
 
+![note1](https://user-images.githubusercontent.com/107494937/188560428-d0eefb23-090c-4fd4-a8ef-2d7a656b7eb8.PNG)
+![note2](https://user-images.githubusercontent.com/107494937/188560432-bfc5286b-4281-4d8f-9cd6-f8215e85f8e7.PNG)
+![note3](https://user-images.githubusercontent.com/107494937/188560435-fbd3c1df-31a0-484f-a958-ccb82c766d72.PNG)
+
+
 
 ## Usage
 
